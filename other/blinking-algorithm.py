@@ -2,7 +2,7 @@
 # blinking algorithm (endorsed by FAANG)
 
 print("10/10 algorithm!! We have implemented it here at IBM in our experimental robots that will take over the world one day!")
-
+print("LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL")
 
 action = blink
 if blink == false AND time = 2 seconds:
