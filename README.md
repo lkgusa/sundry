@@ -1,5 +1,5 @@
 # sundry
-miscellaneous multifarious multiplex myriad
+one of the repositories of all time
 
 these are random and meaningless (...or are they...?)
 
